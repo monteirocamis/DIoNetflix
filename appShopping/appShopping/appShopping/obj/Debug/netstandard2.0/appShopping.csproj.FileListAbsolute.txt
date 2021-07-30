@@ -1,0 +1,14 @@
+C:\shoppingAPP\appShopping\appShopping\appShopping\bin\Debug\netstandard2.0\appShopping.deps.json
+C:\shoppingAPP\appShopping\appShopping\appShopping\bin\Debug\netstandard2.0\appShopping.dll
+C:\shoppingAPP\appShopping\appShopping\appShopping\bin\Debug\netstandard2.0\ref\appShopping.dll
+C:\shoppingAPP\appShopping\appShopping\appShopping\bin\Debug\netstandard2.0\appShopping.pdb
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\appShopping.csproj.AssemblyReference.cache
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\appShopping.AssemblyInfoInputs.cache
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\appShopping.AssemblyInfo.cs
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\appShopping.csproj.CoreCompileInputs.cache
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\XamlC.stamp
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\appShopping.dll
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\ref\appShopping.dll
+C:\shoppingAPP\appShopping\appShopping\appShopping\obj\Debug\netstandard2.0\appShopping.pdb
